@@ -60,7 +60,7 @@ function draw() {
   //Making Faces user instructions 
    fill(0);
    textSize(14);
-   text('Hold Mouse Please - What Will Silly Faces Do? ', 65, 323);
+   text('Hold Mouse Please - What Will Silly Faces Do? ', 60, 323);
   //text('freq: ' + freq, 20, 40);
   //text('amp: ' + amp, 20, 60);
 
